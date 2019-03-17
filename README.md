@@ -4,6 +4,8 @@
 
 This repo is a short demo of the tool [vuese](https://github.com/vuese/vuese) to create component documentation for Vue.js components.
 
+> The accompanying blog post can be found on [dev.to](https://dev.to/berniwittmann/quick--easy-documentation-generation-for-vuejs-components-7k6)
+
 ## Setup
 
 Install the dependencies

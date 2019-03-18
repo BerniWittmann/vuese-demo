@@ -1,6 +1,6 @@
-# Vuese - Demo
-
 ![](assets/header_image_demo_vuese.png)
+
+# Quick & easy documentation generation for Vue Components with vuese - Demo
 
 This repo is a short demo of the tool [vuese](https://github.com/vuese/vuese) to create component documentation for Vue.js components.
 
